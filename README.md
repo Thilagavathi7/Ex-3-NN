@@ -1,6 +1,7 @@
+<H3>EX. NO.3</H3>
 <H3>ENTER YOUR NAME</H3>Thilagavathi S
 <H3>ENTER YOUR REGISTER NO.</H3>212222220053
-<H3>EX. NO.3</H3>
+
 <H3>DATE:3/4/2024</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
